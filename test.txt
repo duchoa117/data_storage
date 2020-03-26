@@ -1,2 +1,2 @@
-__label__train test train
-__label__train this is train
+__label__test test test
+__label__test this is test
